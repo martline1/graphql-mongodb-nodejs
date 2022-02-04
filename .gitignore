@@ -1,0 +1,15 @@
+# NPM Packages
+node_modules/
+build/
+.yarn/
+.DS_Store
+
+# Logs
+package-lock.json
+.yarnrc
+yarn-error.log
+
+**.js
+!webpack.config.js
+!babel.config.js
+!jest.config.js

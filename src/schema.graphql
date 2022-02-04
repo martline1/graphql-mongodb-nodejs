@@ -1,0 +1,8 @@
+enum GroupColor {
+    1
+}
+
+type Group {
+    name: String!
+    color: 
+}
